@@ -7,3 +7,4 @@ array.each do |number|
 
 
 end
+end
