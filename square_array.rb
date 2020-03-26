@@ -1,7 +1,9 @@
 def square_array(array)
 
-array.each 
-return array**2
+array.each do |number|
+  number=number**2 
+  return number
+  
 
 
 end
