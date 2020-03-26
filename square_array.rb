@@ -1,6 +1,6 @@
 def square_array(array)
 squared_array = []
-counter = 3
+counter = 0
 
  while array[counter] do
    squared_array << array[counter] **2 
